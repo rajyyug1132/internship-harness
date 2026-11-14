@@ -1,0 +1,4 @@
+12-month Tech Apprenticeship
+Qualifications: candidate must have completed graduation in a Bachelor's or Master's programme in Computer Science, IT or another technical discipline.
+Design and implement web-enabled systems for data collection. Write API specs, take part in code reviews and testing in agile sprints.
+Languages: Java, JavaScript, Python, .NET. Native iOS / Android experience is a plus.

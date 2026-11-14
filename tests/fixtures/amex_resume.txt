@@ -1,0 +1,9 @@
+Candidate
+Second-year Computer Science student. Works data-first: measure before choosing.
+Skills: Python, JavaScript, TypeScript, SQL, Rust, C. REST APIs, FastAPI.
+Built a FastAPI service and Typer CLI that answer questions over SEC EDGAR filings, test-gated with automated tests in CI.
+Stock Thesis Generator: customer-facing fintech web app with VaR and CVaR risk metrics; customers rate theses.
+Customer Feedback Analyzer over support tickets.
+Club platform: iterate on the UI with a DSPy loop; role-based access control.
+Competitive programming.
+Education: University, Computer Science, Sep 2025 - Expected 2029.

@@ -1,0 +1,33 @@
+{
+  "role": "American Express - 12-month Tech Apprenticeship (ATS Check report, 26 Sep 2026: 44/100)",
+  "terms": [
+    {"term": "Completed Bachelor's", "section": "Must", "weight": 3, "forms": ["completed Master's"]},
+    {"term": "Java", "section": "Core", "weight": 3},
+    {"term": "JavaScript", "section": "Core", "weight": 3},
+    {"term": "Python", "section": "Core", "weight": 3},
+    {"term": "Computer Science", "section": "Must", "weight": 2},
+    {"term": "APIs", "section": "Core", "weight": 2, "forms": ["API", "API specs", "REST APIs"]},
+    {"term": "Agile", "section": "Core", "weight": 2},
+    {"term": "Code reviews", "section": "Core", "weight": 2},
+    {"term": "Testing", "section": "Core", "weight": 2, "forms": ["tests", "test-gated"]},
+    {"term": "Customer-facing applications", "section": "Core", "weight": 2, "forms": ["customer-facing"]},
+    {"term": "Web applications", "section": "Core", "weight": 2, "forms": ["web app", "web platform"]},
+    {"term": "iOS", "section": "Core", "weight": 2, "forms": ["Android", "mobile app"]},
+    {"term": "Data collection", "section": "Core", "weight": 2},
+    {"term": "Sprints", "section": "Core", "weight": 1},
+    {"term": ".NET", "section": "Core", "weight": 1},
+    {"term": "Proof of concept", "section": "Core", "weight": 1},
+    {"term": "Automation tools", "section": "Core", "weight": 1, "forms": ["automated"]},
+    {"term": "Social integration", "section": "Core", "weight": 1},
+    {"term": "Java services", "section": "Core", "weight": 1},
+    {"term": "Data-driven", "section": "Trait", "weight": 1},
+    {"term": "Customer focus", "section": "Trait", "weight": 1, "forms": ["customers"]},
+    {"term": "Continuous improvement", "section": "Trait", "weight": 1},
+    {"term": "Curiosity", "section": "Trait", "weight": 1, "forms": ["eager to learn"]},
+    {"term": "Innovation", "section": "Trait", "weight": 1},
+    {"term": "Problem solving", "section": "Trait", "weight": 1},
+    {"term": "Analysis", "section": "Trait", "weight": 1, "forms": ["Analyzer"]},
+    {"term": "Fintech", "section": "Domain", "weight": 1, "forms": ["payments"]},
+    {"term": "Security mindset", "section": "Domain", "weight": 1, "forms": ["risk management"]}
+  ]
+}

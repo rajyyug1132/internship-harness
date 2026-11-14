@@ -1,0 +1,13 @@
+ledger.md
+applications.md
+seen.txt
+resume-*.tex
+resume-*.pdf
+HARNESS.md
+jd/
+terms/
+packets/
+*.aux
+*.log
+*.out
+__pycache__/
